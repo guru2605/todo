@@ -1,4 +1,4 @@
-# vue_hotels_fe
+# todo_fe
 
 > Hotels Project
 
