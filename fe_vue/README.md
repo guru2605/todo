@@ -1,6 +1,6 @@
 # todo_fe
 
-> Hotels Project
+> Todo Frontend Project
 
 ## Build Setup
 
